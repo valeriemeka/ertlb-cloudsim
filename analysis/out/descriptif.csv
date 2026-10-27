@@ -1,0 +1,13 @@
+metrique,algorithme,n,moyenne,ecart_type,ic95
+Temps de réponse moyen (s),ROUND_ROBIN,30,112.5119,5.8395,2.0896
+Temps de réponse moyen (s),ERTLB,30,104.8794,4.8734,1.7439
+Temps de réponse moyen (s),ERTLB_PLUS,30,103.8255,4.8036,1.7189
+Makespan (s),ROUND_ROBIN,30,355.635,29.4223,10.5286
+Makespan (s),ERTLB,30,244.8551,18.6875,6.6872
+Makespan (s),ERTLB_PLUS,30,212.0223,9.8529,3.5258
+Utilisation CPU (%),ROUND_ROBIN,30,62.6736,4.1778,1.495
+Utilisation CPU (%),ERTLB,30,84.5947,4.1858,1.4979
+Utilisation CPU (%),ERTLB_PLUS,30,97.2144,0.4877,0.1745
+Écart-type de la charge (s),ROUND_ROBIN,30,63.6336,8.5119,3.0459
+Écart-type de la charge (s),ERTLB,30,18.2265,3.3592,1.2021
+Écart-type de la charge (s),ERTLB_PLUS,30,2.7068,0.4481,0.1604
